@@ -6,6 +6,7 @@ STEP 4:- Create virtual environment
             b.  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
             c. .\venv\Scripts\Activate.ps1
             d. deactivate
+STEP 5:- cd "path"
 STEP 5:- python manage.py migrate
 STEP 6:- python manage.py createsuperuser
 STEP 7:- python manage.py runserver
