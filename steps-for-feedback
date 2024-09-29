@@ -1,0 +1,12 @@
+STEP 1:- Download the zip file
+STEP 2:- Extract the files 
+STEP 3:- open cmd in the same file to get the path
+STEP 4:- Create virtual environment 
+            a.  python -m venv venv
+            b.  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+            c. .\venv\Scripts\Activate.ps1
+            d. deactivate
+STEP 5:- python manage.py migrate
+STEP 6:- python manage.py createsuperuser
+STEP 7:- python manage.py runserver
+STEP 8:- go to new tab and type (http://127.0.0.1:8000/admin) for database
