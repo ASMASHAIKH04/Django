@@ -1,6 +1,6 @@
 STEP 1:- Download the zip file
 STEP 2:- Extract the files 
-STEP 3:- open cmd in the same file to get the path
+STEP 3:- Go to visual studio code and open the extracted folder
 STEP 4:- Create virtual environment 
             a.  python -m venv venv
             b.  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
