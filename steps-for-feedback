@@ -7,7 +7,7 @@ STEP 4:- Create virtual environment
             c. .\venv\Scripts\Activate.ps1
             d. deactivate
 STEP 5:- cd "path"
-STEP 5:- python manage.py migrate
-STEP 6:- python manage.py createsuperuser
-STEP 7:- python manage.py runserver
-STEP 8:- go to new tab and type (http://127.0.0.1:8000/admin) for database
+STEP 6:- python manage.py migrate
+STEP 7:- python manage.py createsuperuser
+STEP 8:- python manage.py runserver
+STEP 9:- go to new tab and type (http://127.0.0.1:8000/admin) for database
